@@ -1,0 +1,7 @@
+6
+Munna 8 D 30 50 40
+Shojoy 9 E 25 50 50
+Asif 10 C 27 50 50
+Joy 9 G 28 100 100
+Bijoy 7 E 19 001 09
+Khadija 8 E 1000 40 50
